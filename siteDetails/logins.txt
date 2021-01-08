@@ -1,0 +1,7 @@
+# Site Login Details:
+
+Site Name: Wellcome
+Site Database: wellcome
+Site Username: adminFarazHashmi
+Site Password: S8%ti$kfeJHvV18@9a
+Site Admin Email Address: developerfarazhashmi@yahoo.com
